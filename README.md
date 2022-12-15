@@ -1,4 +1,4 @@
-# :ramen: SI 618 Final project - Why is my food delivery taking so long?
+# :ramen: SI 618 Final project - Why is my food delivery taking so long? 
 
 ## An Explanatory Analysis of Food Delivery Using Doordash Data
 
@@ -46,11 +46,13 @@ the most of information? </li>
     </ul>
 </ol>
 
-## Please check the report for details on methods and results
+**Please check the [report](https://github.com/xingyue-umich/Explanatory-Analysis-of-Food-Delivery-Duration/blob/main/Report.pdf) for details on methods and results part**
 
 ## Installing
 
-In order to configure this project, please clone the repository to your local system.
+In order to configure this project, please follow these steps:
+
+1. Clone the repository to your local system.
 
     ``` git
     git clone https://github.com/xingyue-umich/Explanatory-Analysis-of-Food-Delivery-Duration.git
