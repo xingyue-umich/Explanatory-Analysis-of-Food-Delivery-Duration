@@ -50,9 +50,7 @@ the most of information? </li>
 
 ## Installing
 
-In order to configure this project, please follow these steps:
-
-1. Clone the repository to your local system.
+In order to configure this project, please clone the repository to your local system.
 
     ``` git
     git clone https://github.com/xingyue-umich/Explanatory-Analysis-of-Food-Delivery-Duration.git
